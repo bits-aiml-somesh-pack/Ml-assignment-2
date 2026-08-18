@@ -107,7 +107,7 @@ Metrics computed on the held-out test set (8,238 rows, 20% of the data):
 
 ## Live Streamlit App Link
 
-`<PASTE YOUR DEPLOYED STREAMLIT APP LINK HERE>`
+https://ml-assignment-2-erqvj3llggghcehgsengt8.streamlit.app
 
 ## How to Run Locally
 
